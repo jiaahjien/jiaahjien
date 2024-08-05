@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a student at University of Technology and Education. My major is computer engineering. I'm looking to collabrate on 
 <!--
 **jiaahjien/jiaahjien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
